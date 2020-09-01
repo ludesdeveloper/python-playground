@@ -1,4 +1,0 @@
-User akan melakukan sekali input ke dalam program
-Jika input nya berupa string dan valuenya "ulang", program akan melakukan print input sebanyak 5 kali
-jika inputnya berupa string dan valuenya "lagi" program akan melakukan print input sebanyak 7 kali
-selain dari itu program akan melakukan print "saya sedang belajar programming" sebanyak 1 kali
